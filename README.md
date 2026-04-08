@@ -6,9 +6,11 @@ I primarily work in **C#**, and I focus on creating tools and systems that empow
 
 ---
 
-## 🚀 Core Projects
+<table>
+<tr>
+<td valign="top" width="50%">
 
-### 🌌 InfiniLore  
+## 🌌 InfiniLore  
 A platform for **deep worldbuilding and storytelling**.
 
 InfiniLore is designed to help creators build complex worlds with rich structures like:
@@ -22,21 +24,26 @@ It’s not just note-taking, it’s **structured creativity at scale**.
 
 🔗 [Explore InfiniLore](https://github.com/InfiniLore)
 
----
+</td>
+<td valign="top" width="50%">
 
-### 🖥️ InfiniFrame (Photino Rework)  
+## 🖥️ InfiniFrame  
 A modern rework of the Photino ecosystem, focused on making **lightweight desktop apps in .NET** easier and cleaner.
 
 InfiniFrame aims to:
 - Simplify native window handling  
-- Improve developer experience over existing Photino tooling  
+- Improve developer experience  
 - Provide a solid foundation for hybrid desktop apps (including Blazor)  
 
 🔗 [View InfiniFrame](https://github.com/InfiniLore/InfiniFrame)
 
----
+</td>
+</tr>
 
-### 🧰 Code Of Chaos  
+<tr>
+<td valign="top" width="50%">
+
+## 🧰 Code Of Chaos  
 A collection of reusable libraries and tools I’ve built over time.
 
 This includes:
@@ -46,7 +53,8 @@ This includes:
 
 🔗 [Browse Code Of Chaos](https://github.com/code-of-chaos)
 
----
+</td>
+<td valign="top" width="50%">
 
 ## 🎥 Streaming
 
@@ -57,14 +65,11 @@ On my Twitch channel, **AnnaSasDev**, I do a lot of live coding:
 
 My chat acts as my rubber ducky, helping me think through problems and keep moving forward.
 
-If you enjoy:
-- C# development  
-- System design  
-- Watching things break and get fixed live  
-
-Come hang out!
-
 🔗 [Watch on Twitch](https://www.twitch.tv/annasasdev)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -73,8 +78,8 @@ Come hang out!
 **Languages**  
 - C#  
 - TypeScript  
-- Python
-- C++
+- Python  
+- C++  
 
 **Frameworks & Tools**  
 - Blazor  
