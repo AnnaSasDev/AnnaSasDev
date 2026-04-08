@@ -1,26 +1,93 @@
-## Hi, I'm Anna Sas 👋
+## 👋 Hi, I'm Anna Sas
 
-I'm a passionate developer and programming streamer who loves to "roll your own" solutions, though I know not to roll my own Auth!
-I believe the best way to learn is by diving deep into projects and solving problems from the ground up. I primarily work in C#, and one of my proudest projects is my custom data-driven game engine, AterraEngine, built in C# with Raylib.cs for rendering. It's designed to be mod-capable right out of the box.
+I'm a passionate developer and programming streamer who loves building things from the ground up — with a strong "roll your own" mindset (except auth… we don’t do that 😄).
 
-- 🚀 Featured Project: [AterraEngine](https://github.com/AterraEngine/aterra_engine-cs) is a data-driven, mod-capable game engine written in C# using Raylib.cs for rendering. It’s designed to be lightweight yet powerful, enabling easy modding for users. Want to take a peek? Check out the AterraEngine repository to see what it's all about!
-- 🧠 Learning Journey: I aim to keep my skillset diverse, dabbling in a bit of everything, as I believe the best way to grow as a developer is by learning widely.
-- 🎮 Current Goal: My main focus is creating a small platformer game using AterraEngine. Keeping the scope limited helps me dive deep into game dev while managing my time effectively.
-- 🌐 Web Dev: I also explore the world of web development using Blazor in C# to build interactive websites.
+I primarily work in **C#**, and I focus on creating tools and systems that empower creativity, storytelling, and development.
 
 ---
-### 🎥 Streaming
-On my twitch streams, [AnnaSasDev](https://www.twitch.tv/annasasdev), you can find me doing a lot of live coding, whether it's building new features, debugging, or answering questions from viewers. 
-My chat is like my very own rubber ducky — you know, for explaining code in true "rubber duck debugging" fashion 🦆.
-If you enjoy coding with a community, learning alongside others, or just want to hang out while I debug, come by and say hi!
+
+## 🚀 Core Projects
+
+### 🌌 InfiniLore  
+A platform for **deep worldbuilding and storytelling**.
+
+InfiniLore is designed to help creators build complex worlds with rich structures like:
+- Universes, timelines, and events  
+- Characters, factions, and lore systems  
+- Permission-based collaboration  
+
+> ⚠️ **Status:** InfiniLore is currently a **work in progress** and is **not yet intended for public use**.
+
+It’s not just note-taking — it’s **structured creativity at scale**.
+
+🔗 [Explore InfiniLore](https://github.com/InfiniLore)
 
 ---
-### 💡 Tech Stack & Tools
-Languages: C#, TypeScript
-Frameworks & Libraries: Blazor, Raylib.cs
-Tools: Jetbrains Rider, Obsidian (I even built a plugin for it! [Colored Tags Wrangler](https://github.com/code-of-chaos/obsidian-colored_tags_wrangler))
+
+### 🖥️ InfiniFrame (Photino Rework)  
+A modern rework of the Photino ecosystem, focused on making **lightweight desktop apps in .NET** easier and cleaner.
+
+InfiniFrame aims to:
+- Simplify native window handling  
+- Improve developer experience over existing Photino tooling  
+- Provide a solid foundation for hybrid desktop apps (including Blazor)  
+
+🔗 [View InfiniFrame](https://github.com/InfiniLore/InfiniFrame)
 
 ---
-### 🐤 Fun Fact
-My whole streaming brand is based around rubber duckies, a nod to the well-known programming practice of rubber duck debugging — where you explain your code to a rubber duck to help figure out problems.
-My viewers act as my chat-duckies, helping me along the way, and them helping me!
+
+### 🧰 Code Of Chaos  
+A collection of reusable libraries and tools I’ve built over time.
+
+This includes:
+- CLI utilities  
+- Extensions and helper packages  
+- Experimental and production-ready components  
+
+🔗 [Browse Code Of Chaos](https://github.com/code-of-chaos)
+
+---
+
+## 🎥 Streaming
+
+On my Twitch channel, **AnnaSasDev**, I do a lot of live coding:
+- Building new features  
+- Debugging (with my chat-duckies 🦆)  
+- Exploring ideas in real-time  
+
+My chat acts as my rubber duck — helping me think through problems and keep moving forward.
+
+If you enjoy:
+- C# development  
+- System design  
+- Watching things break and get fixed live  
+
+Come hang out!
+
+🔗 [Watch on Twitch](https://www.twitch.tv/annasasdev)
+
+---
+
+## 💡 Tech Stack
+
+**Languages**  
+- C#  
+- TypeScript  
+- Python
+- C++
+
+**Frameworks & Tools**  
+- Blazor  
+- .NET (latest)  
+- Raylib.cs (for experiments & game dev)  
+- JetBrains Rider  
+- Obsidian (with my own plugins)
+
+---
+
+## 🐤 Fun Fact
+
+My whole brand is built around **rubber duck debugging**.
+
+Instead of talking to a rubber duck, I talk to my chat —  
+and somehow… it works.
