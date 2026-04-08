@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Anna Sas
 
-I'm a passionate developer and programming streamer who loves building things from the ground up — with a strong "roll your own" mindset (except auth… we don’t do that 😄).
+I'm a passionate developer and programming streamer who loves building things from the ground up, with a strong "roll your own" mindset (except auth… we don’t do that 😄).
 
 I primarily work in **C#**, and I focus on creating tools and systems that empower creativity, storytelling, and development.
 
@@ -18,7 +18,7 @@ InfiniLore is designed to help creators build complex worlds with rich structure
 
 > ⚠️ **Status:** InfiniLore is currently a **work in progress** and is **not yet intended for public use**.
 
-It’s not just note-taking — it’s **structured creativity at scale**.
+It’s not just note-taking, it’s **structured creativity at scale**.
 
 🔗 [Explore InfiniLore](https://github.com/InfiniLore)
 
@@ -55,7 +55,7 @@ On my Twitch channel, **AnnaSasDev**, I do a lot of live coding:
 - Debugging (with my chat-duckies 🦆)  
 - Exploring ideas in real-time  
 
-My chat acts as my rubber duck — helping me think through problems and keep moving forward.
+My chat acts as my rubber ducky, helping me think through problems and keep moving forward.
 
 If you enjoy:
 - C# development  
@@ -89,5 +89,5 @@ Come hang out!
 
 My whole brand is built around **rubber duck debugging**.
 
-Instead of talking to a rubber duck, I talk to my chat —  
+Instead of talking to a rubber duck, I talk to my chat,  
 and somehow… it works.
